@@ -1,0 +1,3 @@
+aiogram==3.13.1
+instaloader==4.13
+requests==2.31.0
